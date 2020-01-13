@@ -4,7 +4,7 @@
 
 # Overview
 
-I work with unsupervised learning on MNIST of Spiking Neural Networks.
+I work with unsupervised learning on MNIST using Spiking Neural Networks.
 
 I've reproduced the results of this [paper](https://arxiv.org/abs/1904.06269) using the [bindsnet](https://github.com/Hananel-Hazan/bindsnet) library. It is important to read the paper for further understanding.
 
